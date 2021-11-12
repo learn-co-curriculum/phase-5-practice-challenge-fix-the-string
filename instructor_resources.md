@@ -60,10 +60,10 @@ Space Complexity: O(n)
 
 Sample runs:
 
-With "cCcOdDdInGGgisSSfUUun", String size 21, Num steps 32
-With "efFEFiiIxyeEYeZdDzd", String size 19, Num steps 24
-With "abcdefghijklmMLKJIHGFEDCBA",  String size 26, Num steps 26
-With "abcdefghijklmnopqrstuvwxyz", String size 26, Num steps 52
+- With "cCcOdDdInGGgisSSfUUun", String size 21, Num steps 32
+- With "efFEFiiIxyeEYeZdDzd", String size 19, Num steps 24
+- With "abcdefghijklmMLKJIHGFEDCBA",  String size 26, Num steps 26
+- With "abcdefghijklmnopqrstuvwxyz", String size 26, Num steps 52
 
 #### In-place Solution Using Nested Loops
 
@@ -89,10 +89,10 @@ Space Complexity: O(n)
 
 Sample runs:
 
-With "cCcOdDdInGGgisSSfUUun", String size 21, Num steps 35
-With "efFEFiiIxyeEYeZdDzd", String size 19, Num steps 23
-With "abcdefghijklmMLKJIHGFEDCBA",  String size 26, Num steps 78 (3*n)
-With "abcdefghijklmnopqrstuvwxyz", String size 26, Num steps 25
+- With "cCcOdDdInGGgisSSfUUun", String size 21, Num steps 35
+- With "efFEFiiIxyeEYeZdDzd", String size 19, Num steps 23
+- With "abcdefghijklmMLKJIHGFEDCBA",  String size 26, Num steps 78 (3*n)
+- With "abcdefghijklmnopqrstuvwxyz", String size 26, Num steps 25
 
 #### In-place Solution Using `slice!`
 
@@ -120,10 +120,10 @@ Space Complexity: O(1)
 
 Sample runs:
 
-With "cCcOdDdInGGgisSSfUUun", String size 21, Num steps 40
-With "efFEFiiIxyeEYeZdDzd", String size 19, Num steps 30
-With "abcdefghijklmMLKJIHGFEDCBA",  String size 26, Num steps 91 (3.5*n)
-With "abcdefghijklmnopqrstuvwxyz", String size 26, Num steps 25
+- With "cCcOdDdInGGgisSSfUUun", String size 21, Num steps 40
+- With "efFEFiiIxyeEYeZdDzd", String size 19, Num steps 30
+- With "abcdefghijklmMLKJIHGFEDCBA",  String size 26, Num steps 91 (3.5*n)
+- With "abcdefghijklmnopqrstuvwxyz", String size 26, Num steps 25
 
 #### In-place Solution using Two Pointers
 
@@ -149,7 +149,7 @@ Space Complexity: O(1)
 
 Sample runs:
 
-With "cCcOdDdInGGgisSSfUUun", String size 21, Num steps 21
-With "efFEFiiIxyeEYeZdDzd", String size 19, Num steps 19
-With "abcdefghijklmMLKJIHGFEDCBA",  String size 26, Num steps 26
-With "abcdefghijklmnopqrstuvwxyz", String size 26, Num steps 26
+- With "cCcOdDdInGGgisSSfUUun", String size 21, Num steps 21
+- With "efFEFiiIxyeEYeZdDzd", String size 19, Num steps 19
+- With "abcdefghijklmMLKJIHGFEDCBA",  String size 26, Num steps 26
+- With "abcdefghijklmnopqrstuvwxyz", String size 26, Num steps 26
