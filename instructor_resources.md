@@ -55,8 +55,10 @@ def fix_the_string(str)
 end
 ```
 
-Time Complexity: O(n)
-Space Complexity: O(n)
+Complexity:
+
+- Time: O(n)
+- Space : O(n)
 
 Sample runs:
 
@@ -84,8 +86,10 @@ def fix_the_string(str)
 end
 ```
 
-Time Complexity: O(n)
-Space Complexity: O(n)
+Complexity:
+
+- Time: O(n)
+- Space : O(n)
 
 Sample runs:
 
@@ -115,8 +119,10 @@ def fix_the_string(str)
 end
 ```
 
-Time Complexity: O(n)
-Space Complexity: O(1)
+Complexity:
+
+- Time: O(n)
+- Space : O(1)
 
 Sample runs:
 
@@ -144,8 +150,10 @@ def fix_the_string(str)
 end
 ```
 
-Time Complexity: O(n)
-Space Complexity: O(1)
+Complexity:
+
+- Time: O(n)
+- Space : O(1)
 
 Sample runs:
 
