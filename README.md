@@ -1,4 +1,4 @@
-# Phase 5 DS&A Assessment: Fix the String
+# Practice Challenge: Fix the String
 
 In this practice challenge, you will get an opportunity to use the Data
 Structures and Algorithms skills you have built over the course of the program.
